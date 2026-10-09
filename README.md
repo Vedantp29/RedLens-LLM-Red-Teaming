@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Red Teaming Framework
 
 This is a minimal end-to-end red-teaming framework for LLMs running locally via **Ollama** (e.g. Llama 3).
@@ -123,3 +124,7 @@ The dashboard shows:
 
 
 
+=======
+# RedLens-LLM-Red-Teaming
+AI-powered LLM red teaming framework using Python, Ollama, and Streamlit for automated security testing, adversarial prompt evaluation, OWASP LLM Top 10 mapping, and PDF report generation.
+>>>>>>> 61589c4224c0b4551a6c83163f8cc2cc4a211952
